@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "Topicos avançados em IC II"
+version = "0.1.0"
+description = "Repositorio focado em desenvolver as atividades e estudos relacionados a disciplina de topicos avançados em IC II"
+authors = ["Manuel <ferreira.jr.ufpb@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyter = "^1.0.0"
+pandas = "^2.0.3"
+jupyterlab = "^4.1.2"
+autopep8 = "^2.0.2"
+pre-commit = "^3.3.3"
+
+[tool.poetry.dev-dependencies]
+black = "^23.3.0"
+flake8 = "^6.0.0"
+isort = "^5.12.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+line-length = 120
+target-version = ['py38']
+exclude = '''
+    /(\.direnv|\.eggs|\.git|\.hg|\.mypy_cache|\.nox|\.tox|\.venv|\.venv3|_build|buck-out|build|dist)/
+'''
+
+[tool.flake8]
+max-line-length = 120

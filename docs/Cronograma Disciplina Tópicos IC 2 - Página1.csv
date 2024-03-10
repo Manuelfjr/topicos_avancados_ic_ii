@@ -1,0 +1,52 @@
+Módulos,,
+,,
+1. Modelos de AM supervisionada,,
+,,
+----- Classificação (introdução) e algoritmos,Aula 1,04 de março
+----- Avaliação de algoritmos,Aula 2,11 de março
+,,
+,,
+2. Explicabilidade de modelos (xAI),,
+,,
+----- Explicabilidade de modelos (xAI) - Visão geral ,Aula 3,13 de março
+----- Explicabilidade de modelos (xAI) - Modelos Caixa Branca e Global Surrogates,Aula 4,18 de março
+----- Explicabilidade de modelos (xAI) - Feature Importance,Aula 5,20 de março
+----- Explicabilidade de modelos (xAI) - Visual Plots (PDPs),Aula 6,25 de março
+----- Explicabilidade de modelos (xAI) - LIME e definição da lista de exercícios de XAI,Aula 7,27 de março
+,,
+----- 31 de março a 14 de abril não haverá aula ---- recesso (férias do professor!!!),,
+,,
+3. AM não-supervisionada e detecção de anomalias,,
+,,
+---- Agrupamento de dados,Aula 8,15 de abril
+---- Detecção de anomalias,Aula 9,17 de abril
+---- Dúvidas lista de exercícios (extra),Aula 10,19 de abril
+,,
+------------- Entrega lista de exercícios- xAI,Aula 11,22 de abril
+------------- Entrega lista de exercícios- xAI,Aula 12,24 de abril
+,,
+,,
+3. Confiabilidade de modelos ,,
+,,
+----- Confiabilidade de predições - Conceitos básicos e técnicas,Aula 13,29 de abril
+----- Confiabilidade de predições - Aplicações,Aula 14,06 de maio
+----- Equidade (Fairness) - Visão geral ,Aula 15,08 de maio
+----- Definição de lista de confiabilidade e incerteza,Aula 16,13 de maio
+----- Data-centric AI,Aula 17,15 de maio
+------ Caracterização de dificuldade de problemas (global),Aula 18,20 de maio
+------ Caracterização de dificuldade de problemas (local),Aula 19,22 de maio
+---- Dúvidas lista de exercícios (extra),Aula 20,24 de maio
+------------- Apresentação Projeto -conf. e incerteza,Aula 21,27 de maio
+------------- Apresentação Projeto - conf. e incerteza,Aula 22,29 de maio
+,,
+,,
+4. Projeto de disciplina,,
+,,
+----- Definição dos projetos - equipes e temas,Aula 23,03 de junho
+------ Acompanhamento dos projetos,Aula 24,05 de junho
+------ Acompanhamento dos projetos,Aula 25,10 de junho
+------ Acompanhamento dos projetos,Aula 26,12 de junho
+------ Acompanhamento dos projetos,Aula 27,17 de junho
+------ Acompanhamento dos projetos,Aula 28,19 de junho
+Apresentação final dos projetos,Aula 29,24 de junho
+Apresentação final dos projetos,Aula 30,26 de junho
