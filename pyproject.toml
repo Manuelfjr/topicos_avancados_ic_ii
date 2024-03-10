@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "Topicos avançados em IC II"
+name = "in1165"
 version = "0.1.0"
 description = "Repositorio focado em desenvolver as atividades e estudos relacionados a disciplina de topicos avançados em IC II"
 authors = ["Manuel <ferreira.jr.ufpb@gmail.com>"]
@@ -11,6 +11,9 @@ pandas = "^2.0.3"
 jupyterlab = "^4.1.2"
 autopep8 = "^2.0.2"
 pre-commit = "^3.3.3"
+scikit-learn = "^1.4.1"
+matplotlib = "^3.8.3"
+seaborn = "^0.13.2"
 
 [tool.poetry.dev-dependencies]
 black = "^23.3.0"
