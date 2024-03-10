@@ -3,6 +3,11 @@
 ## Descrição
 Este repositório contém os materiais e recursos para a disciplina de Tópicos Avançados em Inteligência Computacional 2, com foco em IA Responsiva, ministrada pelo Prof. Ricardo Prudêncio. O curso se concentra principalmente no estudo e aplicação de técnicas avançadas de aprendizado de máquina.
 
+## Atividades
+
+1. [Atividade 01: [Avaliação de Algoritmos]](https://github.com/Manuelfjr/topicos_avancados_ic_ii/blob/develop/notebooks/01.atividade-01-dt.ipynb)
+    - `status`: `concluida`
+
 ## Referências
 - Bishop, C. M. (2006). Pattern recognition and machine learning. springer.
 - Hastie, T., Tibshirani, R., & Friedman, J. (2009). The elements of statistical learning: data mining, inference, and prediction. Springer Science & Business Media.
