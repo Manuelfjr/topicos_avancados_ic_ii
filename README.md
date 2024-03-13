@@ -1,3 +1,7 @@
+<!--
+[repositorio]: https://img.shields.io/
+-->
+
 # Tópicos Avançados em Inteligência Computacional 2
 ![Github Created At](https://img.shields.io/github/created-at/manuelfjr/topicos_avancados_ic_ii)
 [![Last Updated](https://img.shields.io/github/last-commit/manuelfjr/topicos_avancados_ic_ii.svg)](https://github.com/manuelfjr/topicos_avancados_ic_ii/commits/master)
