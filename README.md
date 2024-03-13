@@ -8,6 +8,9 @@ Este repositório contém os materiais e recursos para a disciplina de Tópicos 
 1. [Atividade 01: [Avaliação de Algoritmos]](https://github.com/Manuelfjr/topicos_avancados_ic_ii/blob/develop/notebooks/01.atividade-01-dt.ipynb)
     - `status`: `concluida`
 
+2. [Atividade 02: [Explicabilidade (Visão Geral)]](/notebooks/02.atividade-02.md)
+
+
 ## Referências
 - Bishop, C. M. (2006). Pattern recognition and machine learning. springer.
 - Hastie, T., Tibshirani, R., & Friedman, J. (2009). The elements of statistical learning: data mining, inference, and prediction. Springer Science & Business Media.
