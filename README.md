@@ -6,7 +6,6 @@
 ![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/manuelfjr/topicos_avancados_ic_ii)
 [![Repository Size](https://img.shields.io/github/repo-size/manuelfjr/topicos_avancados_ic_ii)](https://github.com/manuelfjr/topicos_avancados_ic_ii)
 ![GitHub top language](https://img.shields.io/github/languages/top/manuelfjr/topicos_avancados_ic_ii)
-[![Dependências](https://img.shields.io/librariesio/github/manuelfjr/topicos_avancados_ic_ii)](https://libraries.io/github/manuelfjr/topicos_avancados_ic_ii)
 
 
 ## Descrição
