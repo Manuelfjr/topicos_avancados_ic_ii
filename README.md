@@ -24,6 +24,10 @@ Este repositório contém os materiais e recursos para a disciplina de Tópicos 
     - `status`: `concluida`
 
 
+3. [Atividade 03: [Global Surrogates]](/notebooks/03.atividade-03-surrogates.ipynb)
+    - `status`: `concluida`
+
+
 ## Referências
 - Bishop, C. M. (2006). Pattern recognition and machine learning. springer.
 - Hastie, T., Tibshirani, R., & Friedman, J. (2009). The elements of statistical learning: data mining, inference, and prediction. Springer Science & Business Media.
