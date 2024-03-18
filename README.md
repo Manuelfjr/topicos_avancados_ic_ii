@@ -27,6 +27,15 @@ Este repositório contém os materiais e recursos para a disciplina de Tópicos 
 3. [Atividade 03: [Global Surrogates]](/notebooks/03.atividade-03-surrogates.ipynb)
     - `status`: `concluida`
 
+## Organização
+
+- `applications`: diretorio de aplicações realizadas pelo professor da disciplina.
+
+- `data`: diretorio para armazenamento de dados.
+
+- `docs`: documentos referênciais e materiais da aula.
+
+- `notebooks`: notebooks desenvolvidos para atividades e trabalhos.
 
 ## Referências
 - Bishop, C. M. (2006). Pattern recognition and machine learning. springer.
