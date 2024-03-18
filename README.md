@@ -32,6 +32,7 @@ Este repositório contém os materiais e recursos para a disciplina de Tópicos 
 - Bishop, C. M. (2006). Pattern recognition and machine learning. springer.
 - Hastie, T., Tibshirani, R., & Friedman, J. (2009). The elements of statistical learning: data mining, inference, and prediction. Springer Science & Business Media.
 - Goodfellow, I., Bengio, Y., Courville, A., & Bengio, Y. (2016). Deep learning (Vol. 1). MIT press Cambridge.
+- [Molnar, C., 2020. Interpretable machine learning. Lulu. com.](/docs/Molnar-interpretable-machine-learning_compressed.pdf)
 
 ## Contato
 Para mais informações sobre este curso, entre em contato:
