@@ -2,7 +2,8 @@ import sys
 from pathlib import Path
 from typing import Union
 
-def set_root(level: int=1, return_path: bool=False) -> Union[str, None]:
+
+def set_root(level: int = 1, return_path: bool = False) -> Union[str, None]:
     for i in range(level):
         if i == 0:
             PROJECT_DIR = Path.cwd().parent

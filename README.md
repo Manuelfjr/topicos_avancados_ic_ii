@@ -40,6 +40,7 @@ Este repositório contém os materiais e recursos para a disciplina de Tópicos 
 
 - `notebooks`: notebooks desenvolvidos para atividades e trabalhos.
 
+[]()
 ## Referências
 - Bishop, C. M. (2006). Pattern recognition and machine learning. springer.
 - Hastie, T., Tibshirani, R., & Friedman, J. (2009). The elements of statistical learning: data mining, inference, and prediction. Springer Science & Business Media.
@@ -52,4 +53,3 @@ Para mais informações sobre este curso, entre em contato:
 [<img src="https://img.icons8.com/ios/20/000000/domain.png"/>](https://manuelfjr.github.io) [https://manuelfjr.github.io](https://manuelfjr.github.io)
 
 [<img src="https://img.icons8.com/ios/20/000000/github--v1.png"/>](https://github.com/manuelfjr) [manuelfjr](https://github.com/manuelfjr)
-
