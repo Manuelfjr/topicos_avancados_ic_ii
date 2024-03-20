@@ -27,6 +27,9 @@ Este repositório contém os materiais e recursos para a disciplina de Tópicos 
 3. [Atividade 03: [Global Surrogates]](/notebooks/03.atividade-03-surrogates.ipynb)
     - `status`: `concluida`
 
+4. [Atividade 04: [Feature Importance]](/notebooks/04.atividade-04-feature_importance.ipynb)
+    - `status`: `concluida`
+
 ## Organização
 
 - `applications`: diretorio de aplicações realizadas pelo professor da disciplina.
