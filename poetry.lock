@@ -74,6 +74,17 @@ doc = ["doc8", "sphinx (>=7.0.0)", "sphinx-autobuild", "sphinx-autodoc-typehints
 test = ["dateparser (>=1.0.0,<2.0.0)", "pre-commit", "pytest", "pytest-cov", "pytest-mock", "pytz (==2021.1)", "simplejson (>=3.0.0,<4.0.0)"]
 
 [[package]]
+name = "astroid"
+version = "3.1.0"
+description = "An abstract syntax tree for Python with inference support."
+category = "main"
+optional = false
+python-versions = ">=3.8.0"
+
+[package.dependencies]
+typing-extensions = {version = ">=4.0.0", markers = "python_version < \"3.11\""}
+
+[[package]]
 name = "asttokens"
 version = "2.4.1"
 description = "Annotate AST trees with source code positions"
@@ -315,6 +326,18 @@ description = "XML bomb protection for Python stdlib modules"
 category = "main"
 optional = false
 python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*"
+
+[[package]]
+name = "dill"
+version = "0.3.8"
+description = "serialize all of Python"
+category = "main"
+optional = false
+python-versions = ">=3.8"
+
+[package.extras]
+graph = ["objgraph (>=1.7.2)"]
+profile = ["gprof2dot (>=2022.7.29)"]
 
 [[package]]
 name = "distlib"
@@ -575,7 +598,7 @@ arrow = ">=0.15.0"
 name = "isort"
 version = "5.13.2"
 description = "A Python utility / library to sort Python imports."
-category = "dev"
+category = "main"
 optional = false
 python-versions = ">=3.8.0"
 
@@ -948,7 +971,7 @@ traitlets = "*"
 name = "mccabe"
 version = "0.7.0"
 description = "McCabe checker, plugin for flake8"
-category = "dev"
+category = "main"
 optional = false
 python-versions = ">=3.6"
 
@@ -1327,6 +1350,32 @@ plugins = ["importlib-metadata"]
 windows-terminal = ["colorama (>=0.4.6)"]
 
 [[package]]
+name = "pylint"
+version = "3.1.0"
+description = "python code static checker"
+category = "main"
+optional = false
+python-versions = ">=3.8.0"
+
+[package.dependencies]
+astroid = ">=3.1.0,<=3.2.0-dev0"
+colorama = {version = ">=0.4.5", markers = "sys_platform == \"win32\""}
+dill = [
+    {version = ">=0.2", markers = "python_version < \"3.11\""},
+    {version = ">=0.3.6", markers = "python_version >= \"3.11\""},
+    {version = ">=0.3.7", markers = "python_version >= \"3.12\""},
+]
+isort = ">=4.2.5,<5.13.0 || >5.13.0,<6"
+mccabe = ">=0.6,<0.8"
+platformdirs = ">=2.2.0"
+tomli = {version = ">=1.1.0", markers = "python_version < \"3.11\""}
+tomlkit = ">=0.10.1"
+
+[package.extras]
+spelling = ["pyenchant (>=3.2,<4.0)"]
+testutils = ["gitpython (>3)"]
+
+[[package]]
 name = "pyparsing"
 version = "3.1.2"
 description = "pyparsing module - Classes and methods to define and execute parsing grammars"
@@ -1649,6 +1698,14 @@ optional = false
 python-versions = ">=3.7"
 
 [[package]]
+name = "tomlkit"
+version = "0.12.4"
+description = "Style preserving TOML library"
+category = "main"
+optional = false
+python-versions = ">=3.7"
+
+[[package]]
 name = "tornado"
 version = "6.4"
 description = "Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed."
@@ -1802,8 +1859,8 @@ python-versions = ">=3.7"
 
 [metadata]
 lock-version = "1.1"
-python-versions = ">=3.10,<3.13"
-content-hash = "e227b93847788f7433cfb96529e9d22b60914464269ea9b64c6e87d80847bc1c"
+python-versions = ">=3.10"
+content-hash = "26b7aa72aa651a89aa82843ac69840249a26f1adf9a8911f6c8c149eda1af9e7"
 
 [metadata.files]
 anyio = []
@@ -1811,6 +1868,7 @@ appnope = []
 argon2-cffi = []
 argon2-cffi-bindings = []
 arrow = []
+astroid = []
 asttokens = []
 async-lru = []
 attrs = []
@@ -1831,6 +1889,7 @@ cycler = []
 debugpy = []
 decorator = []
 defusedxml = []
+dill = []
 distlib = []
 exceptiongroup = []
 executing = []
@@ -1902,6 +1961,7 @@ pycodestyle = []
 pycparser = []
 pyflakes = []
 pygments = []
+pylint = []
 pyparsing = []
 python-dateutil = []
 python-json-logger = []
@@ -1929,6 +1989,7 @@ terminado = []
 threadpoolctl = []
 tinycss2 = []
 tomli = []
+tomlkit = []
 tornado = []
 tqdm = []
 traitlets = []
