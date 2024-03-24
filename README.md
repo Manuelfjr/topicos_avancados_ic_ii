@@ -30,6 +30,9 @@ Este repositório contém os materiais e recursos para a disciplina de Tópicos 
 4. [Atividade 04: [Feature Importance]](/notebooks/04.atividade-04-feature_importance.ipynb)
     - `status`: `concluida`
 
+5. [Atividade 05: [PDPs e ICEs]](/notebooks/05.atividade-05-pdp_ice.ipynb)
+    - `status`: `concluida`
+
 ## Organização
 
 - `applications`: diretorio de aplicações realizadas pelo professor da disciplina.
