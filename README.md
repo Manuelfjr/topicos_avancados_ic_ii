@@ -33,6 +33,9 @@ Este repositório contém os materiais e recursos para a disciplina de Tópicos 
 5. [Atividade 05: [PDPs e ICEs]](/notebooks/05.atividade-05-pdp_ice.ipynb)
     - `status`: `concluida`
 
+6. [Atividade 06: [LIME]](/notebooks/06.atividade-06-lime.ipynb)
+    - `status`: `concluida`
+
 ## Organização
 
 - `applications`: diretorio de aplicações realizadas pelo professor da disciplina.
